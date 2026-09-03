@@ -1,0 +1,647 @@
+[
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "sector": "Tech / E-commerce / Cloud",
+    "hq": "Seattle, USA",
+    "employees_start_2025_approx": 1556000,
+    "employees_source": "2024 10-K (~1.556M total, ~350k corporate/tech)",
+    "website": "https://amazon.com",
+    "layoffs": [
+      {
+        "date": "2025-10-28",
+        "number_cut": 14000,
+        "percent_of_workforce": 4,
+        "reason_cited": "Leaner org for AI era, bureaucracy removal",
+        "ai_related": true,
+        "ai_evidence": "Leadership cited AI era org design; Reuters reported up to 30k planned",
+        "source_label": "Reuters / CNBC Oct 2025",
+        "source_url": "https://news.crunchbase.com/startups/tech-layoffs/"
+      },
+      {
+        "date": "2026-01-28",
+        "number_cut": 16000,
+        "percent_of_workforce": 1.5,
+        "reason_cited": "AWS / Prime Video / corporate follow-on",
+        "ai_related": true,
+        "ai_evidence": "AWS and technical roles hit disproportionately per trackers",
+        "source_label": "CNN / WorkforceSignal Jan 2026",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "intel",
+    "name": "Intel",
+    "sector": "Semiconductors",
+    "hq": "Santa Clara, USA",
+    "employees_start_2025_approx": 109000,
+    "employees_source": "2024 annual report ~108.9k",
+    "website": "https://intel.com",
+    "layoffs": [
+      {
+        "date": "2024-08-01",
+        "number_cut": 15000,
+        "percent_of_workforce": 15,
+        "reason_cited": "Cost restructuring, missed AI chip race",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Crunchbase 2024 tally",
+        "source_url": "https://news.crunchbase.com/startups/tech-layoffs/"
+      },
+      {
+        "date": "2025-07-01",
+        "number_cut": 24000,
+        "percent_of_workforce": 22,
+        "reason_cited": "Shrink to ~75k core employees under new CEO",
+        "ai_related": false,
+        "ai_evidence": "Falling behind in AI chips cited as context, not direct replacement",
+        "source_label": "Reuters Jul 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "meta",
+    "name": "Meta",
+    "sector": "Social / AI",
+    "hq": "Menlo Park, USA",
+    "employees_start_2025_approx": 74000,
+    "employees_source": "2024 10-K ~74k",
+    "website": "https://about.meta.com",
+    "layoffs": [
+      {
+        "date": "2025-02-10",
+        "number_cut": 3600,
+        "percent_of_workforce": 5,
+        "reason_cited": "Raise-the-bar performance cuts, ML hiring in parallel",
+        "ai_related": true,
+        "ai_evidence": "Hiring aggressively for ML while cutting low-performers",
+        "source_label": "Bloomberg Feb 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2026-03-16",
+        "number_cut": 16000,
+        "percent_of_workforce": 20.3,
+        "reason_cited": "Reshaping around AI capabilities",
+        "ai_related": true,
+        "ai_evidence": "Listed as AI-DRIVEN in trackers",
+        "source_label": "LayoffHedge 2026",
+        "source_url": "https://layoffhedge.com/industry/tech-layoffs-2026"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "sector": "Tech / Cloud / AI",
+    "hq": "Redmond, USA",
+    "employees_start_2025_approx": 228000,
+    "employees_source": "FY2024 ~228k",
+    "website": "https://microsoft.com",
+    "layoffs": [
+      {
+        "date": "2025-05-13",
+        "number_cut": 6000,
+        "percent_of_workforce": 3,
+        "reason_cited": "Reduce management layers; AI writes meaningful share of code",
+        "ai_related": true,
+        "ai_evidence": "CEO Satya Nadella noted AI code share",
+        "source_label": "CNBC May 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2025-07-02",
+        "number_cut": 9000,
+        "percent_of_workforce": 4,
+        "reason_cited": "Second wave while record AI capex continues",
+        "ai_related": true,
+        "ai_evidence": "Cuts in Xbox/sales as AI infra spend grew",
+        "source_label": "CNBC Jul 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "oracle",
+    "name": "Oracle",
+    "sector": "Enterprise SaaS / Cloud",
+    "hq": "Austin, USA",
+    "employees_start_2025_approx": 162000,
+    "employees_source": "FY2025 ~162k",
+    "website": "https://oracle.com",
+    "layoffs": [
+      {
+        "date": "2025-08-01",
+        "number_cut": 3000,
+        "percent_of_workforce": 2,
+        "reason_cited": "Shift spend to AI datacenter build-out",
+        "ai_related": true,
+        "ai_evidence": "Cloud units cut as AI infra spend rose",
+        "source_label": "Bloomberg Aug 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2026-03-10",
+        "number_cut": 21000,
+        "percent_of_workforce": 13,
+        "reason_cited": "Largest cut in company history, AI-infrastructure refocus",
+        "ai_related": true,
+        "ai_evidence": "Early reports said up to 30k; trackers tag AI-DRIVEN",
+        "source_label": "Computerworld / CNBC Jun 2026 filing",
+        "source_url": "https://layoffhedge.com/industry/tech-layoffs-2026"
+      }
+    ]
+  },
+  {
+    "slug": "google",
+    "name": "Google (Alphabet)",
+    "sector": "Tech / Ads / Cloud / AI",
+    "hq": "Mountain View, USA",
+    "employees_start_2025_approx": 187000,
+    "employees_source": "2024 10-K ~187k",
+    "website": "https://abc.xyz",
+    "layoffs": [
+      {
+        "date": "2024-01-10",
+        "number_cut": 1000,
+        "percent_of_workforce": 0.5,
+        "reason_cited": "Hardware, Assistant, ad-sales; shift to Gemini",
+        "ai_related": true,
+        "ai_evidence": "Ad-sales roles partly replaced by AI tooling per The Verge",
+        "source_label": "The Verge Jan 2024",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2025-10-01",
+        "number_cut": 100,
+        "percent_of_workforce": 0.1,
+        "reason_cited": "Cloud design / UX research",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "CNBC Oct 2025",
+        "source_url": "https://lastroundai.com/tools/tech-layoffs-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "sector": "Automotive / Energy",
+    "hq": "Austin, USA",
+    "employees_start_2025_approx": 140000,
+    "employees_source": "2023 10-K ~140.5k",
+    "website": "https://tesla.com",
+    "layoffs": [
+      {
+        "date": "2024-04-15",
+        "number_cut": 14000,
+        "percent_of_workforce": 10,
+        "reason_cited": "Global 10%+ cut incl. Supercharger team",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Electrek / Crunchbase 2024",
+        "source_url": "https://news.crunchbase.com/startups/tech-layoffs/"
+      }
+    ]
+  },
+  {
+    "slug": "cisco",
+    "name": "Cisco",
+    "sector": "Networking",
+    "hq": "San Jose, USA",
+    "employees_start_2025_approx": 90000,
+    "employees_source": "FY2024 ~90k",
+    "website": "https://cisco.com",
+    "layoffs": [
+      {
+        "date": "2024-08-01",
+        "number_cut": 10000,
+        "percent_of_workforce": 11,
+        "reason_cited": "Restructuring toward AI/security",
+        "ai_related": true,
+        "ai_evidence": "Reallocation to AI/security units",
+        "source_label": "Crunchbase 2024",
+        "source_url": "https://news.crunchbase.com/startups/tech-layoffs/"
+      },
+      {
+        "date": "2026-05-14",
+        "number_cut": 4000,
+        "percent_of_workforce": 5,
+        "reason_cited": "Global restructuring, AI-driven per trackers",
+        "ai_related": true,
+        "ai_evidence": "Tagged AI-DRIVEN",
+        "source_label": "TechCrunch May 2026",
+        "source_url": "https://lastroundai.com/tools/tech-layoffs-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "sector": "Enterprise SaaS",
+    "hq": "San Francisco, USA",
+    "employees_start_2025_approx": 72000,
+    "employees_source": "FY2025 ~72k",
+    "website": "https://salesforce.com",
+    "layoffs": [
+      {
+        "date": "2025-02-01",
+        "number_cut": 1000,
+        "percent_of_workforce": 1.4,
+        "reason_cited": "Cut while hiring AI-product salespeople",
+        "ai_related": true,
+        "ai_evidence": "Replacement not shrinkage per Bloomberg",
+        "source_label": "Bloomberg Feb 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2026-02-10",
+        "number_cut": 1000,
+        "percent_of_workforce": 1.4,
+        "reason_cited": "Marketing/product/Agentforce refocus",
+        "ai_related": true,
+        "ai_evidence": "Agentforce AI push",
+        "source_label": "SalesforceBen Feb 2026",
+        "source_url": "https://lastroundai.com/tools/tech-layoffs-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "sap",
+    "name": "SAP",
+    "sector": "Enterprise Software",
+    "hq": "Walldorf, Germany",
+    "employees_start_2025_approx": 107000,
+    "employees_source": "2024 ~107k",
+    "website": "https://sap.com",
+    "layoffs": [
+      {
+        "date": "2024-01-23",
+        "number_cut": 8000,
+        "percent_of_workforce": 7,
+        "reason_cited": "€2B restructuring to focus on Business AI",
+        "ai_related": true,
+        "ai_evidence": "Company statement: increase focus on Business AI",
+        "source_label": "Reuters Jan 2024",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "ibm",
+    "name": "IBM",
+    "sector": "Tech / Consulting",
+    "hq": "Armonk, USA",
+    "employees_start_2025_approx": 288000,
+    "employees_source": "2023 ~288k est.",
+    "website": "https://ibm.com",
+    "layoffs": [
+      {
+        "date": "2024-03-01",
+        "number_cut": 3900,
+        "percent_of_workforce": 1.4,
+        "reason_cited": "AI hiring freeze / back-office automation",
+        "ai_related": true,
+        "ai_evidence": "CEO paused hiring for roles AI could do",
+        "source_label": "Workzil aggregate",
+        "source_url": "https://www.workzil.com/layoffs"
+      },
+      {
+        "date": "2024-06-01",
+        "number_cut": 7800,
+        "percent_of_workforce": 2.7,
+        "reason_cited": "Restructuring",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Workzil aggregate",
+        "source_url": "https://www.workzil.com/layoffs"
+      }
+    ]
+  },
+  {
+    "slug": "dell",
+    "name": "Dell Technologies",
+    "sector": "Hardware / IT",
+    "hq": "Round Rock, USA",
+    "employees_start_2025_approx": 120000,
+    "employees_source": "FY2024 ~120k",
+    "website": "https://dell.com",
+    "layoffs": [
+      {
+        "date": "2026-03-18",
+        "number_cut": 11000,
+        "percent_of_workforce": 10.2,
+        "reason_cited": "Broad FY2026 restructuring, AI-driven per trackers",
+        "ai_related": true,
+        "ai_evidence": "Tagged AI-DRIVEN",
+        "source_label": "Tech Startups Mar 2026",
+        "source_url": "https://layoffhedge.com/industry/tech-layoffs-2026"
+      }
+    ]
+  },
+  {
+    "slug": "accenture",
+    "name": "Accenture",
+    "sector": "IT Services / Consulting",
+    "hq": "Dublin, Ireland",
+    "employees_start_2025_approx": 738000,
+    "employees_source": "FY2024 ~738k",
+    "website": "https://accenture.com",
+    "layoffs": [
+      {
+        "date": "2025-09-01",
+        "number_cut": 11000,
+        "percent_of_workforce": 1.5,
+        "reason_cited": "Staff who cannot be reskilled for AI delivery will be exited",
+        "ai_related": true,
+        "ai_evidence": "CEO quote on AI reskilling per FT",
+        "source_label": "FT Sep 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "tcs",
+    "name": "Tata Consultancy Services (TCS)",
+    "sector": "IT Services",
+    "hq": "Mumbai, India",
+    "employees_start_2025_approx": 607000,
+    "employees_source": "FY2025 ~607k",
+    "website": "https://tcs.com",
+    "layoffs": [
+      {
+        "date": "2025-07-27",
+        "number_cut": 12261,
+        "percent_of_workforce": 2,
+        "reason_cited": "AI-led delivery model, mid/senior mismatch",
+        "ai_related": true,
+        "ai_evidence": "Largest Indian IT layoff; AI delivery cited",
+        "source_label": "Reuters Jul 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "verizon",
+    "name": "Verizon",
+    "sector": "Telecom",
+    "hq": "New York, USA",
+    "employees_start_2025_approx": 105000,
+    "employees_source": "2024 ~105k",
+    "website": "https://verizon.com",
+    "layoffs": [
+      {
+        "date": "2025-11-01",
+        "number_cut": 13000,
+        "percent_of_workforce": 13,
+        "reason_cited": "Largest cut in history, non-union restructuring",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Reuters Nov 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "cognizant",
+    "name": "Cognizant",
+    "sector": "IT Services",
+    "hq": "Teaneck, USA",
+    "employees_start_2025_approx": 336000,
+    "employees_source": "2024 ~336k",
+    "website": "https://cognizant.com",
+    "layoffs": [
+      {
+        "date": "2026-04-29",
+        "number_cut": 15000,
+        "percent_of_workforce": 4.2,
+        "reason_cited": "AI-driven delivery",
+        "ai_related": true,
+        "ai_evidence": "Tagged AI-DRIVEN",
+        "source_label": "LayoffHedge Apr 2026",
+        "source_url": "https://layoffhedge.com/industry/tech-layoffs-2026"
+      }
+    ]
+  },
+  {
+    "slug": "paypal",
+    "name": "PayPal",
+    "sector": "Fintech",
+    "hq": "San Jose, USA",
+    "employees_start_2025_approx": 24000,
+    "employees_source": "2024 ~24k",
+    "website": "https://paypal.com",
+    "layoffs": [
+      {
+        "date": "2024-01-30",
+        "number_cut": 2500,
+        "percent_of_workforce": 9,
+        "reason_cited": "Second major cut in 12 months",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "CNBC Jan 2024",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2026-05-01",
+        "number_cut": 4800,
+        "percent_of_workforce": 18,
+        "reason_cited": "Restructuring / automation",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "WorkforceSignal tracker",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "ebay",
+    "name": "eBay",
+    "sector": "E-commerce",
+    "hq": "San Jose, USA",
+    "employees_start_2025_approx": 12000,
+    "employees_source": "2024 ~12k",
+    "website": "https://ebay.com",
+    "layoffs": [
+      {
+        "date": "2024-01-23",
+        "number_cut": 1000,
+        "percent_of_workforce": 9,
+        "reason_cited": "Full-time + contractor cuts",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Company blog Jan 2024",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "workday",
+    "name": "Workday",
+    "sector": "Enterprise SaaS / HR",
+    "hq": "Pleasanton, USA",
+    "employees_start_2025_approx": 18000,
+    "employees_source": "FY2024 ~18.8k",
+    "website": "https://workday.com",
+    "layoffs": [
+      {
+        "date": "2025-02-05",
+        "number_cut": 1750,
+        "percent_of_workforce": 8.5,
+        "reason_cited": "Reimagining how work gets done, redirect to AI",
+        "ai_related": true,
+        "ai_evidence": "CEO: companies reimagining work, capital to AI",
+        "source_label": "CNBC Feb 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "intuit",
+    "name": "Intuit",
+    "sector": "Fintech / SaaS",
+    "hq": "Mountain View, USA",
+    "employees_start_2025_approx": 18800,
+    "employees_source": "2024 ~18.8k",
+    "website": "https://intuit.com",
+    "layoffs": [
+      {
+        "date": "2024-07-10",
+        "number_cut": 1800,
+        "percent_of_workforce": 10,
+        "reason_cited": "Reallocation to AI-focused roles",
+        "ai_related": true,
+        "ai_evidence": "CEO reframed as re-hiring into AI roles",
+        "source_label": "Company letter Jul 2024",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      },
+      {
+        "date": "2026-05-20",
+        "number_cut": 3000,
+        "percent_of_workforce": 17,
+        "reason_cited": "Infuse AI across services",
+        "ai_related": true,
+        "ai_evidence": "Second AI restructuring per Engadget",
+        "source_label": "Engadget May 2026",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "ups",
+    "name": "UPS",
+    "sector": "Logistics",
+    "hq": "Atlanta, USA",
+    "employees_start_2025_approx": 490000,
+    "employees_source": "2024 ~490k",
+    "website": "https://ups.com",
+    "layoffs": [
+      {
+        "date": "2025-01-01",
+        "number_cut": 14500,
+        "percent_of_workforce": 3,
+        "reason_cited": "Network restructuring / automation",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Workzil aggregate",
+        "source_url": "https://www.workzil.com/layoffs"
+      }
+    ]
+  },
+  {
+    "slug": "boeing",
+    "name": "Boeing",
+    "sector": "Aerospace",
+    "hq": "Arlington, USA",
+    "employees_start_2025_approx": 172000,
+    "employees_source": "2024 ~172k",
+    "website": "https://boeing.com",
+    "layoffs": [
+      {
+        "date": "2024-10-01",
+        "number_cut": 17000,
+        "percent_of_workforce": 10,
+        "reason_cited": "Strike / cost restructuring",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "Workzil aggregate",
+        "source_url": "https://www.workzil.com/layoffs"
+      }
+    ]
+  },
+  {
+    "slug": "panasonic",
+    "name": "Panasonic",
+    "sector": "Electronics / Manufacturing",
+    "hq": "Osaka, Japan",
+    "employees_start_2025_approx": 230000,
+    "employees_source": "2024 ~230k group",
+    "website": "https://panasonic.com",
+    "layoffs": [
+      {
+        "date": "2025-05-01",
+        "number_cut": 10000,
+        "percent_of_workforce": 4,
+        "reason_cited": "Operational efficiency",
+        "ai_related": false,
+        "ai_evidence": "",
+        "source_label": "WorkforceSignal tracker",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "target",
+    "name": "Target (corporate)",
+    "sector": "Retail",
+    "hq": "Minneapolis, USA",
+    "employees_start_2025_approx": 415000,
+    "employees_source": "2024 ~415k total (corporate fraction)",
+    "website": "https://target.com",
+    "layoffs": [
+      {
+        "date": "2025-10-01",
+        "number_cut": 1800,
+        "percent_of_workforce": 8,
+        "reason_cited": "First major corporate cut in a decade",
+        "ai_related": false,
+        "ai_evidence": "White-collar tightening beyond tech per CNBC",
+        "source_label": "CNBC Oct 2025",
+        "source_url": "https://workforcesignal.com/layoff-tracker"
+      }
+    ]
+  },
+  {
+    "slug": "volvo-cars",
+    "name": "Volvo Cars",
+    "sector": "Automotive",
+    "hq": "Gothenburg, Sweden",
+    "employees_start_2025_approx": 42600,
+    "employees_source": "Dec 2024 ~42,600 FTE (Annual Report 2024)",
+    "website": "https://volvocars.com",
+    "layoffs": [
+      {
+        "date": "2025-05-26",
+        "number_cut": 3000,
+        "percent_of_workforce": 7,
+        "reason_cited": "SEK 18B cost/cash plan: high costs, EV slowdown, tariffs; ~15% of office staff",
+        "ai_related": false,
+        "ai_evidence": "No AI cited; 1,200 employees Sweden + ~1,000 consultants + rest global, mostly white-collar",
+        "source_label": "Volvo Cars press release / Reuters May 2025",
+        "source_url": "https://www.volvocars.com/intl/media/press-releases/F8C79D29657A731A/"
+      },
+      {
+        "date": "2026-08-31",
+        "number_cut": 450,
+        "percent_of_workforce": 1.1,
+        "reason_cited": "Stockholm office closure effective 2027-03-01; responsibilities moved to Gothenburg. 450 based in Stockholm; final cut number TBD - relocation offered, managed with unions",
+        "ai_related": false,
+        "ai_evidence": "Office built for software/AI/digital CX, but closure cited as efficiency/complexity, not AI replacement",
+        "source_label": "Volvo Cars press release / Reuters Aug 2026",
+        "source_url": "https://www.volvocars.com/intl/media/press-releases/D1177979D7A4CB2A/"
+      }
+    ]
+  }
+]
